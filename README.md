@@ -6,7 +6,7 @@
 - 🐝 I’m looking to collaborate on web design projects. (✿◠‿◠) 
 - 🍄 Also, I'm looking for help with the previous area mentioned, since I'm still learning. (´ ∀ ` *)
 - 🌻 My pronouns are him/her/they (it depends on the weather, feel free to ask). ૮ ˶ᵔ ᵕ ᵔ˶ ა
-- 💫 If you ever feel curious about hear me really disappointed of myself, we can play LoL: t0rtadetamal. (｡˃ ᵕ ˂ *) 
+- 💫 If you ever feel curious about hearing me really disappointed of myself, we can play LoL: t0rtadetamal. (｡˃ ᵕ ˂ *) 
 
 
 
