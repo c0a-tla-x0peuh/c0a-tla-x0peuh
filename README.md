@@ -15,4 +15,4 @@ School schedule:
 | 15:00 - 16:00 |   TI1  |   TI1  |    TI1    |   TI1  |         |
 | 16:00 - 17:00 |  CyERC |  CyERC |   CyERC   |  CyERC |  CyERC  |
 | 17:00 - 18:00 | PROLOG | PROLOG |   PROLOG  | PROLOG |         |
-| 18:00 - 20:00 |   WEB  |   WEB  |    WEB    |   WEB  |   WEB   |
+| 18:00 - 19:00 |   WEB  |   WEB  |    WEB    |   WEB  |   WEB   |
