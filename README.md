@@ -5,4 +5,4 @@
 - 🌱 Currently learning Python, JavaScript, CSS and HTML5. (｡◕‿◕｡)
 - 🐝 I’m looking to collaborate on web design projects. (✿◠‿◠) 
 - 🍄 Also, I'm looking for help with the previous area mentioned, since I'm still learning. (´ ∀ ` *)
-- 🌻 My pronouns are him/her/they (feel free to ask, it depends on the weather). ૮ ˶ᵔ ᵕ ᵔ˶ ა
+- 🌻 My pronouns are him/her/they (it depends on the weather, feel free to ask). ૮ ˶ᵔ ᵕ ᵔ˶ ა
