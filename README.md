@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**c0a-tla-x0peuh/c0a-tla-x0peuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hewwo 🌸
 
 ![coollogo_com-12097886](https://user-images.githubusercontent.com/85591292/186960685-f34a607b-604c-4073-b65a-26d71ab42a29.gif)
 
