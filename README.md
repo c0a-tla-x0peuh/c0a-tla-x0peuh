@@ -8,13 +8,11 @@
 - 🌻 My pronouns are him/her/they (it depends on the weather, feel free to ask). ૮ ˶ᵔ ᵕ ᵔ˶ ა
 - 💫 If you ever feel curious about hearing me really disappointed of myself, we can play LoL: t0rtadetamal. (｡˃ ᵕ ˂ *) 
 
-
-
-             ／＞--フ
-            | 　_　_| 
-          ／` ミ＿xノ 
-         /　　　　 |
-        /　 ヽ　　 ﾉ
-       │　　|　|　|
-    ／￣|　  |　|　|
-
+School schedule:
+|      Hora     |  Lunes | Martes | Miércoles | Jueves | Viernes |
+|:-------------:|:------:|:------:|:---------:|:------:|:-------:|
+| 14:00 - 15:00 |   SP   |   SP   |     SP    |   SP   |         |
+| 15:00 - 16:00 |   TI1  |   TI1  |    TI1    |   TI1  |         |
+| 16:00 - 17:00 |  CyERC |  CyERC |   CyERC   |  CyERC |  CyERC  |
+| 17:00 - 18:00 | PROLOG | PROLOG |   PROLOG  | PROLOG |  PROLOG |
+| 18:00 - 20:00 |   WEB  |   WEB  |    WEB    |   WEB  |   WEB   |
